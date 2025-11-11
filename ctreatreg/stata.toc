@@ -2,4 +2,4 @@
 1
 2
 3
-p strbee Estimate a treatment effect adjusting for treatment switches Use strbee With STATA 19
+p ctreatreg Dose-Response model with "continuous" treatment, endogeneity and heterogeneous response to observable confounders Use ctreatreg With STATA 19
